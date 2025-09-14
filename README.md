@@ -1,4 +1,4 @@
-# 🎁 Projeto Amigo Secreto - Program One
+# 🎁 Projeto Amigo Secreto - Programa One
 
 Este projeto foi desenvolvido como parte de um desafio do **Program One**, utilizando **HTML**, **CSS** e **JavaScript** puro para criar uma aplicação interativa de **Amigo Secreto**.
 
